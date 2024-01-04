@@ -1,0 +1,6 @@
+{
+    "imports": {
+      "menu": "http://localhost:4500/main.js",
+      "single-spa": "https://cdnjs.cloudflare.com/ajax/libs/single-spa/5.5.0/system/single-spa.min.js"
+    }
+  }
